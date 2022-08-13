@@ -1,6 +1,6 @@
 * 👋 Hi, I'm [@alejooroncoy](https://github.com/alejooroncoy)
 
-* 👨‍💻 I'm frontend developer with technologies like HTML, CSS and Javascript and backend developer with Node.js 
+* 👨‍💻 I'm frontend developer with technologies HTML, CSS, Javascript, React and backend developer with Node.js 
 
 * 👨‍🎓👨‍💻 Eternal student of technologies web y backend
 
