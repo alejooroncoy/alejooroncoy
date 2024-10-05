@@ -2,7 +2,7 @@
 
 * 👨‍💻 I'm frontend developer with technologies HTML, CSS, Javascript, React and backend developer with Node.js 
 
-* 👨‍🎓👨‍💻 Eternal student of technologies web y backend (Node y Python)
+* 👨‍🎓👨‍💻 Eternal student of technologies web and backend (Node and Python)
 
 * 🔍👨‍💻 Researcher of new technologies for the benefit of the community.
 
